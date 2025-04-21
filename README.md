@@ -1,4 +1,4 @@
-<img width="1145" alt="Screenshot 2025-04-21 at 10 07 00 PM" src="https://github.com/user-attachments/assets/ac8996f9-e855-4675-b3d3-7df523a057e0" />
+
 <img width="1145" alt="Screenshot 2025-04-21 at 10 07 00 PM" src="https://github.com/user-attachments/assets/a534163a-e392-4c54-b665-ba7d2b4306cf" />
 # crack-detection
 Here’s a comprehensive list of ways you can improve crack detection:
